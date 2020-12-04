@@ -1,0 +1,36 @@
+h1{
+    
+    font-size:40px;
+    font-weight: bold;
+    font-family: "Impact";
+    text-align: center;
+    background-color:#4444ff;
+    
+    }
+
+h2{
+    color:blue;
+    font-size:25px;
+    font-weight: bold;
+    font-family: "Impact";
+    text-align: center;
+    background-color:#f0ff0f;
+    }
+h3{color: blueviolet}
+h4{color: blueviolet}
+p{
+    background-coler:yellow;
+}
+
+body{
+    background-image: url(../images/07%E7%94%BB%E5%83%8F.jpg);
+    background-attachment: fixed;
+}
+h5{
+    color: blue;
+    font-size: 25px;
+    font-weight:bold;
+    font-family: "Impact";
+    text-align: center;
+    background-color:#f0ff0f;
+}
