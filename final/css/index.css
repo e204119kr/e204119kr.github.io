@@ -1,0 +1,107 @@
+div.title{
+    width:1200px;
+    height:150px;
+    background-color: aliceblue;
+    text-align: left;
+    font-size: 50px;
+    font-family: "Impact";
+    border: 10px solid ;
+     margin-bottom: 10px;
+}
+
+
+
+div.menuitem{
+    display:inline-block;
+    vertical-align: top;
+    width:1030px;
+    height:330px;
+   
+    color:darkred;
+    text-align: center;
+    font-size: 0px;
+    margin-bottom: 20px;
+    
+}
+div.menuitem1{
+    vertical-align: top;
+    display: inline-block;
+    width:250px;
+    height:350px;
+   
+    font-size: 20px;
+    text-align: left;
+
+    }
+div.menuitem2{
+    vertical-align: top;
+    display:inline-block;
+    width: 700px;
+    height:320px;
+    font-size: 15px;
+    
+    margin-left: 50px;
+}
+div.menu1{
+    width:270px;
+    height:125px;
+　　font-size:20px;
+    text-align: left;
+    
+    border:4px solid black;
+    margin-bottom: 11px;
+}
+div.menu2{
+    width:270px;
+    height:125px;
+    
+    border:4px solid black;
+    margin-bottom: 10px;
+}
+div.menu3{
+    width:270px;
+    height:125px;
+    
+    border:4px solid black;
+}
+div.menu4{
+   
+    vertical-align: top;
+    display:inline-block;
+    width: 900px;
+    height:350px;
+    
+}
+div.menu5{
+    display:inline-block;
+    width: 900px;
+    height:40px;
+    text-align: left;
+    color:black;
+    background-color: aqua;
+}
+div.footer{
+     width:1200px;
+    height:30px;
+    background-color:azure;
+    font-size: 15px;
+    color: black;
+    text-align:left;
+    
+    border: 5px solid black;
+    margin-top: 110px;
+}
+div.menu{
+    font-size: 0;
+    width: 1000px;
+    margin-top: 20px;
+}
+div.images{
+    font-size: 0;
+    width: 1000p;
+}
+body{
+    background-image: 
+        url(../images/haikei.jpeg);
+     background-attachment: fixed;
+}
